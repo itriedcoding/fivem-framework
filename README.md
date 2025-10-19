@@ -73,7 +73,7 @@ The **Advanced FiveM Framework - Ultra Edition** is a comprehensive, enterprise-
 #### Windows 10/11
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/advanced-fivem-framework.git
+git clone [https://github.com/your-repo/advanced-fivem-framework](https://github.com/itriedcoding/fivem-framework).git
 cd advanced-fivem-framework
 
 # Run the Windows installer
