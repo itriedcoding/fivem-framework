@@ -146,7 +146,7 @@ sudo yum update -y
 sudo yum install -y git curl wget unzip
 
 # Clone and install
-git clone https://github.com/your-repo/advanced-fivem-framework.git
+git clone https://github.com/itriedcoding/fivem-framework.git
 cd advanced-fivem-framework
 chmod +x ./installers/centos-install.sh
 sudo ./installers/centos-install.sh
