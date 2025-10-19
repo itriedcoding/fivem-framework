@@ -1,8 +1,8 @@
-# 🚀 Advanced FiveM Framework - Ultra Edition
+# 🚀 FiveM Framework
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/your-repo/advanced-fivem-framework)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/itriedcoding/fivem-framework)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/your-repo/advanced-fivem-framework)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/itriedcoding/fivem-framework).
 
 ## 🌟 Overview
 
@@ -87,7 +87,7 @@ cd advanced-fivem-framework
 ```bash
 # Clone the repository
 git clone https://github.com/itriedcoding/fivem-framework.git
-cd advanced-fivem-framework
+cd fivem-framework
 
 # Run the macOS installer
 chmod +x ./installers/macos-install.sh
@@ -101,7 +101,7 @@ chmod +x ./installers/macos-install.sh
 ```bash
 # Clone the repository
 git clone https://github.com/itriedcoding/fivem-framework.git
-cd advanced-fivem-framework
+cd fivem-framework
 
 # Run the Linux installer
 chmod +x ./installers/linux-install.sh
@@ -123,7 +123,7 @@ sudo apt install -y git curl wget unzip
 
 # Clone and install
 git clone https://github.com/itriedcoding/fivem-framework.git
-cd advanced-fivem-framework
+cd fivem-framework
 chmod +x ./installers/vps-install.sh
 sudo ./installers/vps-install.sh
 
@@ -147,7 +147,7 @@ sudo yum install -y git curl wget unzip
 
 # Clone and install
 git clone https://github.com/itriedcoding/fivem-framework.git
-cd advanced-fivem-framework
+cd fivem-framework
 chmod +x ./installers/centos-install.sh
 sudo ./installers/centos-install.sh
 
