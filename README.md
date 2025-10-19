@@ -73,7 +73,7 @@ The **Advanced FiveM Framework - Ultra Edition** is a comprehensive, enterprise-
 #### Windows 10/11
 ```bash
 # Clone the repository
-git clone [https://github.com/your-repo/advanced-fivem-framework](https://github.com/itriedcoding/fivem-framework).git
+git clone https://github.com/itriedcoding/fivem-framework.git
 cd advanced-fivem-framework
 
 # Run the Windows installer
@@ -86,7 +86,7 @@ cd advanced-fivem-framework
 #### macOS
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/advanced-fivem-framework.git
+git clone https://github.com/itriedcoding/fivem-framework.git
 cd advanced-fivem-framework
 
 # Run the macOS installer
@@ -100,7 +100,7 @@ chmod +x ./installers/macos-install.sh
 #### Linux/Debian
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/advanced-fivem-framework.git
+git clone https://github.com/itriedcoding/fivem-framework.git
 cd advanced-fivem-framework
 
 # Run the Linux installer
@@ -122,7 +122,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y git curl wget unzip
 
 # Clone and install
-git clone https://github.com/your-repo/advanced-fivem-framework.git
+git clone https://github.com/itriedcoding/fivem-framework.git
 cd advanced-fivem-framework
 chmod +x ./installers/vps-install.sh
 sudo ./installers/vps-install.sh
@@ -393,9 +393,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: [http://localhost:3000/docs](http://localhost:3000/docs)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/advanced-fivem-framework/issues)
-- **Discord**: [Discord Server](https://discord.gg/your-server)
-- **Email**: support@your-domain.com
+- **Issues**: [GitHub Issues](https://github.com/itriedcoding/fivem-framework/issues)
 
 ## 🙏 Acknowledgments
 
@@ -406,4 +404,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the Advanced FiveM Framework Team**
+**Made with ❤️ by itriedcoding**
