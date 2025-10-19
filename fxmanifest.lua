@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Advanced FiveM Framework Team'
-description 'Ultra Advanced FiveM Framework with 40+ Features'
+author 'FiveM Framework'
+description 'The world best FiveM framework pakced with 40+ features.'
 version '2.0.0'
 
 -- Core Dependencies
