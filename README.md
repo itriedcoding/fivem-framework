@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-The **Advanced FiveM Framework - Ultra Edition** is a comprehensive, enterprise-grade framework designed for FiveM servers. Built with Lua and Python, it provides 40+ advanced features with complete separation of concerns, modular architecture, and cross-platform support.
+The **FiveM Framework** is a comprehensive, enterprise-grade framework designed for FiveM servers. Built with Lua and Python, it provides 40+ advanced features with complete separation of concerns, modular architecture, and cross-platform support.
 
 ## 🎯 Features (40+ Advanced Systems)
 
